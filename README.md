@@ -1,5 +1,5 @@
 # AutoApiS-超级版
-
+[Reference](https://b2og.com/archives/microsoft365e5-kai-fa-zhe-ding-yue-zi-dong-xu-ding-jiao-cheng)
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 # 置顶 #
